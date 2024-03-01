@@ -1,1 +1,1 @@
-# GhostText
+# Input Ghost Text
